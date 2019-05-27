@@ -1,0 +1,16 @@
+{
+  "name": "bonus-1",
+  "version": "1.0.0",
+  "description": "Bonus #1 curso introducción al curso NodeJS",
+  "main": "cursos.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Herrera alherrerapa@unal.edu.co",
+  "license": "ISC"
+}
